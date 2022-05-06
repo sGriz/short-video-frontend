@@ -1,3 +1,16 @@
+# Web API: short-video-frontend
+MERN Project: Short Video App Frontend
+
+## Description:
+A React frontend server to provide a user interface for interacting with the backend API and database.
+
+The React front-end can be found at: https://short-video-frontend-a286d.web.app/
+
+The Short Videos API can be found at: https://shortvideo-gryz.herokuapp.com/
+
+## How-to:
+Using the Google login button will authenticate using Google OAuth. If successful, the user's google ID is added to a mongoDB database. Video objects are displayed through vertical scrolling, and have attributes such as likes and comments. Short videos can be added to the database via postman, and viewed with this frontend.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
